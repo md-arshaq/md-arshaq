@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!I'm+Mohammed+Arshaq;Data+Science+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Mohammed+Arshaq;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 
 - 👀 I’m interested in Coding and Data Science
