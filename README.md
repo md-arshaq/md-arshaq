@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Mohammed Arshaq
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 - 👀 I’m interested in Coding and Data Science
 - 🌱 I’m currently learning Machine Learning, Data Structures and Algorithms (DSA), Python, and SQL
 - 💞️ I’m looking to collaborate on Data Science Problems and Machine Learning Models
