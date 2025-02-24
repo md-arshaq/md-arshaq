@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-arshaq&show_icons=true&locale=en&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-arshaq&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-arshaq)
 
 
 
