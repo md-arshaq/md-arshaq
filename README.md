@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### :hammer_and_wrench: Languages and Tools :
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/md-arshaq&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=md-arshaq&color=blue)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
