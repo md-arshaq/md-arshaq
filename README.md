@@ -35,4 +35,3 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-arshaq)
 
-(https://raw.githubusercontent.com/MAZHARMIK/Interview_DS_Algo/c60e9c91c02fd0cb1129a77d2a07009998e37502/github-user-contribution.svg)
