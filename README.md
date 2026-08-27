@@ -1,19 +1,22 @@
 <div align="center">
 
-# Hey, I'm Arshaq 👋
+# Hi, I'm Arshaq 👋
 
-### `AI & Data Science Enthusiast` · `Problem Solver` · `Developer`
+### Computer Science (Data Science) Student · AI/ML Engineer · Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems;Exploring+Machine+Learning+%26+LLMs;Solving+DSA+problems;Turning+ideas+into+real+products" />
 
 <p>
   <a href="https://github.com/md-arshaq">
-    <img src="https://img.shields.io/github/followers/md-arshaq?label=Followers&style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-md--arshaq-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://github.com/md-arshaq">
-    <img src="https://komarev.com/ghpvc/?username=md-arshaq&style=flat-square&color=blue" />
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:arshaq2312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arshaq2312-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Building+with+AI+%26+Data;Solving+problems+with+DSA;Exploring+Machine+Learning;Turning+ideas+into+working+software" />
 
 </div>
 
@@ -21,30 +24,81 @@
 
 ## About Me
 
-I'm **Mohammed Arshaq**, a Computer Science student specializing in **Data Science**.
+I'm **Mohammed Arshaq**, a Computer Science student specializing in **Data Science** at BMS College of Engineering.
 
-I'm interested in the intersection of **Artificial Intelligence, Data Science and Software Engineering** — from understanding algorithms and building ML models to developing complete applications and AI-powered systems.
+I enjoy building **AI-powered applications, machine learning systems, and scalable software** — from experimenting with SLMs and RAG pipelines to building real-time full-stack applications.
 
-* Currently exploring **Machine Learning, Deep Learning & AI Agents**
-* Strengthening **DSA & Competitive Programming**
-* Building projects across **Data Science, AI and Full-Stack Development**
-* Interested in **AI Engineering / Software Engineering / Data Science**
-* I enjoy solving difficult problems and turning ideas into working systems
-* Outside tech: **Chess, Cricket & Football**
+Currently working as a **Research Intern at Samsung PRISM**, where I'm working on multilingual Grapheme-to-Phoneme systems and phoneme representation learning.
 
-> *Learn. Build. Break. Understand. Repeat.*
+* AI / ML / Deep Learning
+* LLMs, SLMs & RAG
+* Full-Stack Development
+* Data Structures & Algorithms
+* Competitive Programming
+* Distributed systems & backend engineering
 
 ---
 
-## What I'm Working On
+## Experience
 
-```text
-AI / ML              █████████████████░░░   Learning & Building
-Data Science         ██████████████████░░   EDA · Statistics · ML
-DSA                  ███████████████████░   Problem Solving
-Software Engineering ████████████████░░░░   Backend · APIs · Systems
-Cloud & DevOps       ████████████░░░░░░░░   Docker · AWS · Deployment
-```
+### Samsung PRISM — Research Intern
+
+**Jan 2026 – Present · Samsung R&D Institute India**
+
+Working on a unified multilingual **Grapheme-to-Phoneme (G2P) Transformer** for Hindi, Gujarati and Marathi.
+
+* Built a unified multilingual G2P Transformer using a **54.7K-entry IndicTTS dataset**
+* Developed **Acoustic Phonetic Folding** using PPMI, UMAP and K-Means clustering
+* Reduced phoneme vocabulary by **31.6% (57 → 39 clusters)**
+* Achieved **0.08% PER** and **0.35% WER**
+* Evaluated speech quality with **MOS 4.77 vs 4.78**
+
+---
+
+## Featured Projects
+
+### GradeWise AI
+
+**Sustainable AI Assessment Platform**
+
+`FastAPI` `React` `MongoDB` `Redis` `HuggingFace`
+
+AI-powered grading platform for evaluating handwritten answer sheets using locally deployed models.
+
+* Built a three-stage pipeline: **Mistral OCR → text structuring → Qwen2.5-0.5B SLM evaluation**
+* Designed asynchronous batch processing using **FastAPI + Redis + MongoDB**
+* Built a React + TypeScript interface for grading review and analytics
+* Designed for **zero cloud dependency**
+
+---
+
+### TubeMind
+
+**YouTube Intelligence Platform**
+
+`Next.js` `FastAPI` `LangChain` `ChromaDB` `Gemini`
+
+AI platform that lets users interact with YouTube videos through a RAG pipeline.
+
+* Built transcript chunking and semantic retrieval using **ChromaDB**
+* Engineered timestamp-aware retrieval for **precise video citations**
+* Added AI-powered summarization and topic extraction
+* Deployed using **Vercel + Render**
+
+---
+
+### NovaChat
+
+**Real-Time Chat Application**
+
+`React` `Node.js` `Express` `Socket.IO` `Redis`
+
+Full-stack real-time messaging platform supporting global and 1-to-1 conversations.
+
+* Built persistent WebSocket communication using **Socket.IO**
+* Designed a Redis data layer using **Hashes, Sets and Streams**
+* Implemented session authentication with **bcrypt**
+* Built a glassmorphism interface with typing indicators and Cloudinary avatars
 
 ---
 
@@ -53,203 +107,58 @@ Cloud & DevOps       ████████████░░░░░░░�
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
 </p>
 
-### Data Science & AI
+### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-**NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · PySpark · Jupyter · Machine Learning · Deep Learning · NLP · Explainable AI**
+`TensorFlow` · `PyTorch` · `HuggingFace` · `LangChain` · `RAG` · `LLMs` · `SLMs` · `ChromaDB`
 
 ### Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django,flask" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,tailwind" />
 </p>
 
-### Databases
+### Databases & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github" />
 </p>
-
-### Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,linux,vscode" />
-</p>
-
----
-
-## Areas I Like Working In
-
-| Area                    | What I work with                                             |
-| ----------------------- | ------------------------------------------------------------ |
-| Artificial Intelligence | LLMs · SLMs · AI Agents · RAG · Explainable AI               |
-| Machine Learning        | Classification · Regression · Model Evaluation               |
-| Deep Learning           | CNNs · RNNs · LSTMs · Transformers                           |
-| Data Science            | Python · Pandas · NumPy · Statistics · EDA                   |
-| Algorithms              | DSA · Graphs · Dynamic Programming · Competitive Programming |
-| Backend                 | REST APIs · Node.js · Express · Django · Flask               |
-| Databases               | MySQL · PostgreSQL · MongoDB · Redis                         |
-| DevOps                  | Docker · Docker Compose · Nginx · AWS                        |
-| Big Data                | Apache Spark · PySpark                                       |
-
----
-
-## Featured Projects
-
-### AI & Data Science
-
-**Sustainable AI Assessment Platform**
-
-> An AI-powered assessment system designed to evaluate free-form algorithmic solutions using locally deployed Small Language Models, OCR and rubric-based evaluation.
-
-**Tech:** Python · OCR · SLMs · LLMs · NLP · Explainable AI
-
----
-
-**Agentic AI Traffic Congestion Analysis**
-
-> An agent-based system for analyzing traffic congestion and generating explainable insights from traffic data.
-
-**Tech:** Python · AI Agents · LangFlow · IBM Granite · Data Analysis
-
----
-
-**Big Data Weather Analytics**
-
-> A PySpark-based machine learning pipeline for analyzing weather data and predicting average daily temperature.
-
-**Tech:** PySpark · Spark MLlib · Linear Regression · Cross Validation
-
----
-
-### Software Projects
-
-**ZapChat**
-
-> Real-time chat application built with a modern MERN-based stack and Socket.IO.
-
-**Tech:** React · Node.js · Express · MongoDB · Socket.IO · Tailwind CSS
-
----
-
-**LeetMetric**
-
-> A web application for visualizing and tracking competitive programming and LeetCode statistics.
-
-**Tech:** React · APIs · JavaScript · Data Visualization
 
 ---
 
 ## Problem Solving
 
-I enjoy solving algorithmic problems and continuously improving my understanding of:
-
-* Data Structures
-* Algorithms
-* Graph Theory
-* Dynamic Programming
-* Greedy Algorithms
-* Binary Search
-* Trees
-* Heaps
-* Backtracking
-* Competitive Programming
-
 <p align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DSA-1500%2B%20Problems-181717?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 </p>
+
+**1500+ DSA problems solved** across LeetCode, GeeksforGeeks and CodeChef.
 
 ---
 
-## GitHub Activity
+## Certifications
 
-<p align="center">
-
-<img src="./profile/stats.svg" width="49%" />
-<img src="./profile/top-langs.svg" width="49%" />
-
-</p>
-
-<p align="center">
-
-<img src="./profile/streak.svg" width="70%" />
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/md-arshaq/md-arshaq/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-## Currently Learning
-
-```text
-                    ┌─────────────────────┐
-                    │    AI ENGINEERING   │
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-       LLMs / SLMs          AI Agents             RAG
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │  MACHINE LEARNING   │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   DATA SCIENCE      │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │ SOFTWARE ENGINEERING│
-                    └─────────────────────┘
-```
-
----
-
-## Let's Connect
-
-<p align="center">
-
-<a href="mailto:arshaq2312@gmail.com">
-<img src="https://img.shields.io/badge/Email-arshaq2312%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/md-arshaq">
-<img src="https://img.shields.io/badge/GitHub-md--arshaq-black?style=for-the-badge&logo=github" />
-</a>
-
-</p>
+* **Nutanix Certified Associate (NCA)** — Cloud Computing
+* **Machine Learning using Python** — Simplilearn
 
 ---
 
 <div align="center">
 
-### "The best way to learn is to build."
+### Let's build something interesting.
 
-**Thanks for visiting my profile.**
+<a href="mailto:arshaq2312@gmail.com">Email</a> · <a href="https://github.com/md-arshaq">GitHub</a> · <a href="https://leetcode.com/">LeetCode</a>
 
 </div>
