@@ -1,164 +1,216 @@
 <div align="center">
 
-# Hi, I'm Arshaq 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Mohammed+Arshaq;AI%2FML+Engineer;Building+with+LLMs+%26+RAG;Full-Stack+Developer" alt="Typing SVG" />
 
-### Computer Science (Data Science) Student · AI/ML Engineer · Problem Solver
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems;Exploring+Machine+Learning+%26+LLMs;Solving+DSA+problems;Turning+ideas+into+real+products" />
-
-<p>
-  <a href="https://github.com/md-arshaq">
-    <img src="https://img.shields.io/badge/GitHub-md--arshaq-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-1600+-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:arshaq2312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arshaq2312-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
 
 </div>
 
----
+<div align="center">
 
-## About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammedarshaq.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammedarshaq.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-md--arshaq-181717?style=for-the-badge&logo=github)](https://github.com/md-arshaq)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Email](https://img.shields.io/badge/Email-arshaq2312@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshaq2312@gmail.com)
 
-I'm **Mohammed Arshaq**, a Computer Science student specializing in **Data Science** at BMS College of Engineering.
+</div>
 
-I enjoy building **AI-powered applications, machine learning systems, and scalable software** — from experimenting with SLMs and RAG pipelines to building real-time full-stack applications.
+<br/>
 
-Currently working as a **Research Intern at Samsung PRISM**, where I'm working on multilingual Grapheme-to-Phoneme systems and phoneme representation learning.
+## 👋 About Me
 
-* AI / ML / Deep Learning
-* LLMs, SLMs & RAG
-* Full-Stack Development
-* Data Structures & Algorithms
-* Competitive Programming
-* Distributed systems & backend engineering
+I'm **Mohammed Arshaq**, a Computer Science student specializing in **Data Science** at BMS College of Engineering, Bengaluru. I build **AI-powered systems** — from multilingual speech models to RAG pipelines and full-stack products — and I'm currently on the hunt for **SDE / AI Engineer** roles.
 
----
+```python
+class Arshaq:
+    def __init__(self):
+        self.role = "Research Intern @ Samsung PRISM"
+        self.focus = ["LLMs & SLMs", "RAG", "Full-Stack Systems", "DSA"]
+        self.currently_building = "Multilingual G2P Transformer"
+        self.dsa_solved = "1500+"
 
-## Experience
+    def get_in_touch(self):
+        return "arshaq2312@gmail.com"
+```
 
-### Samsung PRISM — Research Intern
+<br/>
 
-**Jan 2026 – Present · Samsung R&D Institute India**
+## 💼 Experience
 
-Working on a unified multilingual **Grapheme-to-Phoneme (G2P) Transformer** for Hindi, Gujarati and Marathi.
+<table>
+<tr>
+<td width="100%">
 
-* Built a unified multilingual G2P Transformer using a **54.7K-entry IndicTTS dataset**
-* Developed **Acoustic Phonetic Folding** using PPMI, UMAP and K-Means clustering
-* Reduced phoneme vocabulary by **31.6% (57 → 39 clusters)**
-* Achieved **0.08% PER** and **0.35% WER**
-* Evaluated speech quality with **MOS 4.77 vs 4.78**
+### 🔬 Research Intern — Samsung PRISM
+**Samsung R&D Institute India** · Jan 2026 – Present
 
----
+Building a unified multilingual **Grapheme-to-Phoneme (G2P) Transformer** for Hindi, Gujarati and Marathi.
 
-## Featured Projects
+- 🧠 Trained on a **54.7K-entry IndicTTS dataset**
+- 🔗 Developed **Acoustic Phonetic Folding** (PPMI + UMAP + K-Means clustering)
+- 📉 Cut phoneme vocabulary by **31.6%** (57 → 39 clusters)
+- 🎯 Achieved **0.08% PER** and **0.35% WER**
+- 🗣️ Speech quality within noise of ground truth — **MOS 4.77 vs 4.78**
 
-### GradeWise AI
+</td>
+</tr>
+</table>
 
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [GradeWise AI](https://github.com/md-arshaq)
 **Sustainable AI Assessment Platform**
 
 `FastAPI` `React` `MongoDB` `Redis` `HuggingFace`
 
-AI-powered grading platform for evaluating handwritten answer sheets using locally deployed models.
+AI grading platform for handwritten answer sheets, running entirely on locally deployed models.
 
-* Built a three-stage pipeline: **Mistral OCR → text structuring → Qwen2.5-0.5B SLM evaluation**
-* Designed asynchronous batch processing using **FastAPI + Redis + MongoDB**
-* Built a React + TypeScript interface for grading review and analytics
-* Designed for **zero cloud dependency**
+- Three-stage pipeline: **Mistral OCR → text structuring → Qwen2.5-0.5B SLM evaluation**
+- Async batch processing with **FastAPI + Redis + MongoDB**
+- React + TypeScript review & analytics dashboard
+- **Zero cloud dependency** by design
 
----
+</td>
+<td width="50%" valign="top">
 
-### TubeMind
-
+### 🎬 [TubeMind](https://github.com/md-arshaq)
 **YouTube Intelligence Platform**
 
 `Next.js` `FastAPI` `LangChain` `ChromaDB` `Gemini`
 
-AI platform that lets users interact with YouTube videos through a RAG pipeline.
+RAG platform that lets users chat directly with YouTube videos.
 
-* Built transcript chunking and semantic retrieval using **ChromaDB**
-* Engineered timestamp-aware retrieval for **precise video citations**
-* Added AI-powered summarization and topic extraction
-* Deployed using **Vercel + Render**
+- Transcript chunking + semantic retrieval via **ChromaDB**
+- Timestamp-aware retrieval for **precise video citations**
+- AI-powered summarization & topic extraction
+- Deployed on **Vercel + Render**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### NovaChat
-
+### 💬 [NovaChat](https://github.com/md-arshaq)
 **Real-Time Chat Application**
 
 `React` `Node.js` `Express` `Socket.IO` `Redis`
 
-Full-stack real-time messaging platform supporting global and 1-to-1 conversations.
+Full-stack real-time messaging platform for global and 1-to-1 conversations.
 
-* Built persistent WebSocket communication using **Socket.IO**
-* Designed a Redis data layer using **Hashes, Sets and Streams**
-* Implemented session authentication with **bcrypt**
-* Built a glassmorphism interface with typing indicators and Cloudinary avatars
+- Persistent WebSocket layer via **Socket.IO**
+- Redis data layer using **Hashes, Sets & Streams**
+- Session auth with **bcrypt**
+- Glassmorphism UI with typing indicators & Cloudinary avatars
 
----
+</td>
+<td width="50%" valign="top">
 
-## Tech Stack
+### 🌐 [Portfolio Website](https://mohammedarshaq.vercel.app)
+**Personal Site**
 
-### Languages
+`Next.js` `Tailwind` `Vercel`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
-</p>
+Continuously iterated-on personal site and project showcase.
 
-### AI / Machine Learning
+- Performance-tuned (LCP, lazy loading, `lucide-react` icons)
+- Ongoing content and design refinement
+- Live case studies for projects above
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+</td>
+</tr>
+</table>
 
-`TensorFlow` · `PyTorch` · `HuggingFace` · `LangChain` · `RAG` · `LLMs` · `SLMs` · `ChromaDB`
+<br/>
 
-### Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,tailwind" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github" />
-</p>
-
----
-
-## Problem Solving
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-
-<img src="https://img.shields.io/badge/DSA-1500%2B%20Problems-181717?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</p>
-
-**1500+ DSA problems solved** across LeetCode, GeeksforGeeks and CodeChef.
-
----
-
-## Certifications
-
-* **Nutanix Certified Associate (NCA)** — Cloud Computing
-* **Machine Learning using Python** — Simplilearn
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Let's build something interesting.
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,java,js" />
 
-<a href="mailto:arshaq2312@gmail.com">Email</a> · <a href="https://github.com/md-arshaq">GitHub</a> · <a href="https://leetcode.com/">LeetCode</a>
+<br/><br/>
+
+**AI / Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs%20%2F%20SLMs-10B981?style=flat-square" />
+
+<br/><br/>
+
+**Web & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,tailwind" />
+
+<br/><br/>
+
+**Databases & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=md-arshaq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arshaq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-arshaq&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<br/>
+
+## 🏆 Problem Solving
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-1500%2B%20Problems-181717?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+**1500+ DSA problems solved** across LeetCode, GeeksforGeeks and CodeChef.
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+- 🎓 **Nutanix Certified Associate (NCA)** — Cloud Computing
+- 🎓 **Machine Learning using Python** — Simplilearn
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's build something interesting.
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arshaq2312@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-arshaq)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
