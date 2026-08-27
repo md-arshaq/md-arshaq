@@ -12,7 +12,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammedarshaq.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammedarshaq.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-md--arshaq-181717?style=for-the-badge&logo=github)](https://github.com/md-arshaq)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1600+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![Email](https://img.shields.io/badge/Email-arshaq2312@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshaq2312@gmail.com)
 
 </div>
@@ -21,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm **Mohammed Arshaq**, a Computer Science student specializing in **Data Science** at BMS College of Engineering, Bengaluru. I build **AI-powered systems** — from multilingual speech models to RAG pipelines and full-stack products — and I'm currently on the hunt for **SDE / AI Engineer** roles.
+I'm **Mohammed Arshaq**, a Computer Science student specializing in **Data Science** at BMS College of Engineering, Bengaluru. I build **AI-powered systems** — from multilingual speech models to RAG pipelines and full-stack products.
 
 ```python
 class Arshaq:
@@ -29,7 +28,6 @@ class Arshaq:
         self.role = "Research Intern @ Samsung PRISM"
         self.focus = ["LLMs & SLMs", "RAG", "Full-Stack Systems", "DSA"]
         self.currently_building = "Multilingual G2P Transformer"
-        self.dsa_solved = "1500+"
 
     def get_in_touch(self):
         return "arshaq2312@gmail.com"
@@ -161,55 +159,8 @@ Continuously iterated-on personal site and project showcase.
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github" />
 
-</div>
 
-<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=md-arshaq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-arshaq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-arshaq&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-<br/>
-
-## 🏆 Problem Solving
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-1600%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-1500%2B%20Problems-181717?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-**1500+ DSA problems solved** across LeetCode, GeeksforGeeks and CodeChef.
-
-</div>
-
-<br/>
-
-## 📜 Certifications
-
-- 🎓 **Nutanix Certified Associate (NCA)** — Cloud Computing
-- 🎓 **Machine Learning using Python** — Simplilearn
-
-<br/>
-
-<div align="center">
-
-### 💬 Let's build something interesting.
-
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arshaq2312@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-arshaq)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
